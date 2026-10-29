@@ -177,6 +177,12 @@ main h2 {
     background-image: linear-gradient(to right, var(--cor1), transparent);
 }
 
+.img-droids{
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
 .img-perfil{
     max-width: 100%;
     height: auto;
